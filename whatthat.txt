@@ -1,0 +1,8 @@
+whatthat.txt
+สวัสดี
+1. My name is Niraphon
+2. My lastname is Tharawut.
+3. My email is niratxraw@gmail.com
+4. My phone Number is 0902386159.
+5. OK. very good.
+6. Good bye.
